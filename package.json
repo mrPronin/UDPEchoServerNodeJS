@@ -1,0 +1,11 @@
+{
+  "name": "nodeMongoose",
+  "private": true,
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "dgram": "^1.0.1"
+  }
+}
